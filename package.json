@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cli-spinner": "^0.2.10",
+    "dotenv": "^16.4.5",
+    "prompt-sync": "^4.2.0"
+  }
+}
